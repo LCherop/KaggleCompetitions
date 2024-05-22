@@ -7,7 +7,7 @@ The competition details can be found [here](https://www.kaggle.com/competitions/
 + Performed initial data exploration (describe, info, shape) to get a feel for the data.
 
 ### Memory Maneuvers (Colab-Specific):
-+ Implemented a function to shrink the datasets for efficient Colab use.
++ Implemented a function to shrink the datasets for efficient Colab use.(Got this idea from my friend @RotichG who faced a similar problem)
 
 ### Data Cleaning: Individual Scrubbing
 + Cleaned each dataset separately to catch specific issues.
